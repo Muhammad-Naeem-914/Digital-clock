@@ -1,0 +1,7 @@
+.clock {
+  color: rgba(255, 255, 255, 0.566);
+  background-color: #000;
+  width: 300px;
+  padding: 1px;
+  border-radius: 8px;
+}
